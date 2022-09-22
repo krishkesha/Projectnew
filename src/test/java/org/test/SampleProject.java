@@ -3,6 +3,7 @@ package org.test;
 import org.testng.annotations.Test;
 
 public class SampleProject {
+
 	
 	@Test
 	
@@ -12,5 +13,4 @@ public class SampleProject {
 
 	}
 	
-
 }
